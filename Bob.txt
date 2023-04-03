@@ -1,1 +1,5 @@
 Hi!! I'm Bob. I've been here for a while now.
+
+git remote add origin <file_url>
+
+git push --set-upstream origin master 
